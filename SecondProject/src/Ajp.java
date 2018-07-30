@@ -14,5 +14,6 @@ public class Ajp extends HttpServlet {
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         System.out.println("jaca");
         System.out.println("jaca1");
+
     }
 }
